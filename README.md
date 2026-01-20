@@ -1,19 +1,35 @@
 # Programming Journey 🚀
 
-This repository contains my coding practice and learning journey.
+This repository contains my complete coding learning journey, starting from programming fundamentals to data science tools.
 
-## Languages & Tools
-- C (Basics, loops, arrays)
-- C++ (OOP concepts)
-- Python
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
+## Languages Covered
+
+### C
+- Basics
+- Loops
+- Arrays
+
+### C++
+- Basics
+- Loops
+- Arrays
+- Object-Oriented Programming (OOP) concepts
+
+### Python
+- Basics
+- Loops
+- Arrays
+- Object-Oriented Programming (OOP) concepts
+
+#### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Purpose
-- Practice fundamentals
-- Track my progress
+- Practice programming fundamentals
+- Track my learning progress
 - Build a strong foundation for Data Science
 
-📌 More updates coming as I learn more.
+📌 This repository will be updated regularly as I continue learning and improving my skills.
